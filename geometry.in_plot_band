@@ -1,0 +1,10 @@
+# 
+# This is the geometry file that corresponds to the geometry input
+# The geometry is given in its center cell.
+#  aims_uuid : A0A64CF4-5FB5-4D98-AFB0-8D2E7A03F578                                                    
+# 
+lattice_vector      3.00000000      0.00000000      0.00000000
+lattice_vector      0.00000000      1.50000000      0.00000000
+lattice_vector      0.00000000      0.00000000      1.50000000
+atom       0.00000000      0.00000000      0.00000000 H
+atom       1.50000000      0.00000000      0.00000000 H
